@@ -20,3 +20,9 @@ echo "3. create a file"
 echo "4. create a folder"
 echo "5. create a new webserver"
 #write a case statement that will perform any action the user picks
+read option 
+sleep 2
+echo "you have selected option $option"
+echo 
+echo "gpt ya, let me work on this"
+
