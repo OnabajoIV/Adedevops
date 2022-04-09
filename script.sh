@@ -18,5 +18,5 @@ echo "1. create a user"
 echo "2. create a group"
 echo "3. create a file"
 echo "4. create a folder"
-echo "5. create a webserver"
+echo "5. create a new webserver"
 #write a case statement that will perform any action the user picks
