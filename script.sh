@@ -25,4 +25,7 @@ sleep 2
 echo "you have selected option $option"
 echo 
 echo "gpt ya, let me work on this"
+echo "Will you like to make another transacrion?"
+echo
+echo
 echo "done"
