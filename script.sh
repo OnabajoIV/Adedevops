@@ -25,7 +25,7 @@ sleep 2
 echo "you have selected option $option"
 echo 
 echo "gpt ya, let me work on this"
-echo "Will you like to make another transacrion?"
+echo "Will you like to make another transaction?"
 echo
 echo
 echo "done"
